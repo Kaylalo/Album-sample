@@ -1,3 +1,4 @@
 # Album-sample
 
-Amazing pictures
+My exercise making album by HTML & CSS
+CSS is bery fun
